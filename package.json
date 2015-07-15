@@ -1,0 +1,19 @@
+{
+  "name": "jsx-to-nativescript",
+  "version": "0.0.1",
+  "description": "WIP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsx-ir/jsx-to-nativescript.git"
+  },
+  "author": "Arthur Stolyar <nekr.fabula@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsx-ir/jsx-to-nativescript/issues"
+  },
+  "homepage": "https://github.com/jsx-ir/jsx-to-nativescript"
+}
